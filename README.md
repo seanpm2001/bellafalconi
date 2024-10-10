@@ -1,4 +1,6 @@
-## Hi there 👋
+### Bella Falconi
+
+Hi, I'm Bella, A **digital marketing specialist** and **SEO manager** at ***prosprate***
 
 <!--
 **bellafalconi/bellafalconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
