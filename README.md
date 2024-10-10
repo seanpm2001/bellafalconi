@@ -5,9 +5,9 @@ Hi, I'm Bella, A **digital marketing specialist** and **SEO manager** at ***pros
 - 📫 How to reach me: [Linktree](https://linktr.ee/bellafalcon)
 - ⚡ Fun fact: I love dogs!
 
-Support My Projects with 🌟:
+Support My Projects with your stars 🌟:
 
-- [SEO Roadmap](https://github.com/seoroadmap/seo-roadmap) 🌟🌟🌟🌟🌟
+- [🌟 SEO Roadmap 🌟](https://github.com/seoroadmap/seo-roadmap) 
 
 
 <!--
